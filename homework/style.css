@@ -1,0 +1,58 @@
+
+
+.w200{
+    width: 200px;
+
+}
+
+.h200{
+    height: 200px;
+
+}
+
+.back-gr{
+    background-color: #2268bb;
+
+}
+
+.mar-top{
+    margin-top: 10px;
+
+}
+
+.mar-bottom{
+    margin-bottom: 10px;
+
+
+}
+
+.mar-sites{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.box{
+    display: flex;
+
+}
+
+.w410{
+    width: 410px;
+}
+
+.box3{
+    display: flex;
+
+}
+
+.w130{
+    width: 130px;
+
+
+}
+
+.h130{
+    height: 130px;
+
+}
